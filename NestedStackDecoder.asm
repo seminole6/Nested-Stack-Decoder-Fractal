@@ -1,6 +1,5 @@
-# Homework 4
 # name: Devon Maguire
-# sbuid: 109284550
+# date: 5/4/2015
 
 .text
 .globl main
