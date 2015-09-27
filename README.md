@@ -1,5 +1,5 @@
 # Nested-Stack-Decoder-Fractal
-MIPS program that reverses strings set between brackets and creates a fractal.
+MIPS program that reverses strings set between brackets and creates a fractal.\t
 
 This program does four things:
 1. If given an input file that contains characters nested in parenthasis, the program will read the file and
